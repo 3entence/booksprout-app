@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "북싹 — 몽글이의 숲속 아지트",
+  "short_name": "북싹",
+  "description": "몽글이와 함께 읽고 산책하는 작은 숲속 아지트",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4e4c2",
+  "theme_color": "#78985a",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
